@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gridviewbase2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="data">
+        <item>pic 1</item>
+        <item>pic 2</item>
+        <item>pic 3</item>
+        <item>pic 4</item>
+        <item>pic 5</item>
+        <item>pic 6</item>
+        <item>pic 7</item>
+        <item>pic 8</item>
+    </string-array>
+
+</resources>
